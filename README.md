@@ -1,6 +1,6 @@
 # AI-Introductory-Telco-Churn-EDA
 Beginner-friendly EDA project using the Telco Churn dataset.  This project is part of my AI Foundation Level portfolio.
-# 📊 Telco Churn EDA (Beginner Project)
+# Telco Churn EDA (Beginner Project)
 
 This repository contains a beginner-friendly Exploratory Data Analysis (EDA) project using the **Telco Customer Churn** dataset.  
 The goal is to understand customer behavior and identify patterns related to churn using only foundational Python tools.
@@ -27,6 +27,6 @@ The goal is to understand customer behavior and identify patterns related to chu
 - Higher **MonthlyCharges** are associated with higher churn  
 - **Electronic Check** payment method shows higher churn rates  
 
-## 🎯 Purpose
+## Purpose
 This project is part of my **AI Introductory** learning path, focusing on understanding and visualizing data before going into machine learning models.  
 More beginner EDA projects will be added as I revisit my course content.
